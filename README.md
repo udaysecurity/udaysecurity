@@ -1,14 +1,13 @@
 🚀 Cybersecurity student focused on building practical skills in security, networking, and Python.
 
-##👋 Uday Sharma
+#👋 Uday Sharma
 
 🎓 B.Tech CSE Student | Aspiring Cybersecurity Professional  
 📍 Himachal Pradesh, India  
 
 
 ## 🚀 About Me
-Motivated computer science student with a strong interest in cybersecurity.  
-Currently building foundational skills in Python, networking, and security while working on practical projects.
+Computer science student with a strong interest in cybersecurity and secure systems. Currently building foundational skills in Python, networking, and security through practical projects.
 
 
 ## 🛠️ Skills
