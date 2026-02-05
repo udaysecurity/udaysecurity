@@ -14,7 +14,7 @@ Currently building foundational skills in Python, networking, and security while
 ## 🛠️ Skills
 - Networking Fundamentals (Learning)
 - Linux Administration (Kali – Beginner)
-- Python Scripting (Begineer)
+- Python Scripting (Beginner)
 - Version Control (Git & GitHub)
 
 
