@@ -12,7 +12,7 @@ Currently building foundational skills in Python, networking, and security while
 ## 🛠️ Skills
 - Computer Networking (Learning)
 - Linux (Kali – Beginner)
-- Pyhton(Begineer)
+- Python (Begineer)
 - Git & GitHub
 - Problem Solving
 
