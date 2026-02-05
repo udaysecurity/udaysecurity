@@ -1,4 +1,6 @@
-# 👋 Uday Sharma
+🚀 Cybersecurity student focused on building practical skills in security, networking, and Python.
+
+##👋 Uday Sharma
 
 🎓 B.Tech CSE Student | Aspiring Cybersecurity Professional  
 📍 Himachal Pradesh, India  
@@ -10,11 +12,10 @@ Currently building foundational skills in Python, networking, and security while
 
 
 ## 🛠️ Skills
-- Computer Networking (Learning)
-- Linux (Kali – Beginner)
-- Python (Begineer)
-- Git & GitHub
-- Problem Solving
+- Networking Fundamentals (Learning)
+- Linux Administration (Kali – Beginner)
+- Python Scripting (Begineer)
+- Version Control (Git & GitHub)
 
 
 ## 📚 Education
