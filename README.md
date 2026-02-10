@@ -1,6 +1,6 @@
 🚀 Cybersecurity student focused on building practical skills in security, networking, and Python.
 
-# 👋 Hi, I'm Uday Sharma
+#                         👋 Hi, I'm Uday Sharma
 ### Aspiring Cybersecurity Professional
 
 🎓 B.Tech CSE Student | Aspiring Cybersecurity Professional  
